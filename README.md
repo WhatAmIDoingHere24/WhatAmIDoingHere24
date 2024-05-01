@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @WhatAmIDoingHere24
-- 👀 I’m interested in cloud computing and storage
-- 🌱 I’m currently learning python cloud computing
-- 💞️ I’m looking to collaborate on cloud server projects
-- 📫 How to reach me ...
 
-<!---
-WhatAmIDoingHere24/WhatAmIDoingHere24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-------PERSONAL PROJECTS------------
+-AllOmnipotent.com (my website)
+-Open Source Intellagence Tool (CDRD)
+-Cyberpatritot team leader/competitor (4 yrs)
+  -won the SoCal Mayors cup
+  -made finals on multiple compitions
+-------PROFESSIONAL PROJECTS---------
+-Helped build the website for my highschools auto program
+-solo managed my works website and products [powersportpros.com]
+
+-------NOTABLE CLASSES (HIGHSCHOOL)---------
+-AP comp sci. (3 yrs capstone)
+------------------------------------
+-engineering (3 yrs capstone)
+------------------------------------
+-IT (1 yr, course ended)
+------------------------------------
+-Data Sci. (1 yr course)
+------------------------------------
+-AP Statistics (1 yr course)

@@ -1,6 +1,6 @@
 
 -------PERSONAL PROJECTS------------
--AllOmnipotent.com (my website)
+-AllOmnipotent-com.pages.dev (my website)
 -Open Source Intellagence Tool (CDRD)
 -Cyberpatritot team leader/competitor (4 yrs)
   -won the SoCal Mayors cup

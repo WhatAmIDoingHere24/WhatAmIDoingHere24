@@ -12,7 +12,7 @@
 -------NOTABLE CLASSES (HIGHSCHOOL)---------
 -AP comp sci. (3 yrs capstone)
 ------------------------------------
--engineering (3 yrs capstone)
+-engineering (2 yrs capstone)
 ------------------------------------
 -IT (1 yr, course ended)
 ------------------------------------

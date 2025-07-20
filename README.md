@@ -7,15 +7,10 @@
   -made finals on multiple compitions
 -------PROFESSIONAL PROJECTS---------
 -Helped build the website for my highschools auto program
--solo managed my works website and products [powersportpros.com]
+-solo managed my works website and products [powersportpros.com / pspBuilds.com]
+-------------------------------------
+NAU co 29' Computer Engineering w/ Cyber Security
+Founder / Current President of AxeSat Of NAU
+Member of CyberJacks
+Member Of High Power Rocketry Club
 
--------NOTABLE CLASSES (HIGHSCHOOL)---------
--AP comp sci. (3 yrs capstone)
-------------------------------------
--engineering (2 yrs capstone)
-------------------------------------
--IT (1 yr, course ended)
-------------------------------------
--Data Sci. (1 yr course)
-------------------------------------
--AP Statistics (1 yr course)

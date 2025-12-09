@@ -6,10 +6,10 @@
 
 
 # **Current Leadership**
-CyberJacks Of NAU - President
-The CyberJacks Foundation - Director
-IEEE Chapter Of NAU - Member
-Association for Computing Machinery - Member
+CyberJacks Of NAU - President <br>
+The CyberJacks Foundation - Director <br>
+IEEE Chapter Of NAU - Member <br>
+Association for Computing Machinery - Member <br>
 
 
 # **Past Achievements / Leadership**
